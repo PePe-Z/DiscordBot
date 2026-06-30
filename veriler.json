@@ -1,0 +1,79 @@
+{
+    "734309670864552049": {
+        "mesaj_sayisi": 377,
+        "sesli_suresi": 4744,
+        "mesaj_kanallari": {
+            "\u300c\ud83d\udce2\u300dduyurular": 151,
+            "kedy-owo-oynas\u0131n-diye": 12,
+            "\ud83d\udcdc\u30fbrol-al": 5,
+            "\ud83d\udcac\u30fbgenel-sohbet": 29,
+            "wordle-pepe_official": 34,
+            "\ud83e\udde0\u30fbwordle-ve-trivia": 22,
+            "wordle-kadrolusiyahgiyen": 7,
+            "\ud83e\udde0\u30fbawordle-ve-trivia": 1,
+            "wordle-bdwnotai": 10,
+            "wordle-kedy193": 7,
+            "\ud83e\udd16\u30fbbot-komut": 13,
+            "\ud83d\udcf7\u30fbmedya-galerisi": 1
+        },
+        "xp": 1121,
+        "seviye": 6
+    },
+    "282123142732972032": {
+        "mesaj_sayisi": 103,
+        "sesli_suresi": 0,
+        "mesaj_kanallari": {
+            "\u300c\ud83d\udce2\u300dduyurular": 64,
+            "\ud83d\udcac\u30fbgenel-sohbet": 4,
+            "wordle-bdwnotai": 17,
+            "wordle-pepe_official": 7,
+            "\ud83e\udd16\u30fbbot-komut": 7,
+            "\ud83d\udcf7\u30fbmedya-galerisi": 2
+        },
+        "xp": 586,
+        "seviye": 3
+    },
+    "408785106942164992": {
+        "mesaj_sayisi": 20,
+        "sesli_suresi": 0
+    },
+    "549178484853964811": {
+        "mesaj_sayisi": 12,
+        "sesli_suresi": 0,
+        "yayin_suresi": 0,
+        "mesaj_kanallari": {
+            "\ud83d\udcac\u30fbgenel-sohbet": 12
+        },
+        "ses_kanallari": {},
+        "xp": 165,
+        "seviye": 1
+    },
+    "326049775734620160": {
+        "mesaj_sayisi": 13,
+        "sesli_suresi": 0,
+        "yayin_suresi": 0,
+        "mesaj_kanallari": {
+            "\ud83e\udde0\u30fbwordle-ve-trivia": 1,
+            "wordle-kadrolusiyahgiyen": 10,
+            "\ud83d\udcac\u30fbgenel-sohbet": 2
+        },
+        "ses_kanallari": {},
+        "xp": 207,
+        "seviye": 1
+    },
+    "1075152510601400360": {
+        "mesaj_sayisi": 54,
+        "sesli_suresi": 0,
+        "yayin_suresi": 0,
+        "mesaj_kanallari": {
+            "\ud83d\udcac\u30fbgenel-sohbet": 25,
+            "wordle-kedy193": 7,
+            "\ud83d\udcf7\u30fbmedya-galerisi": 2,
+            "\ud83e\udde0\u30fbwordle-ve-trivia": 6,
+            "\ud83e\udd16\u30fbbot-komut": 14
+        },
+        "ses_kanallari": {},
+        "xp": 520,
+        "seviye": 2
+    }
+}
